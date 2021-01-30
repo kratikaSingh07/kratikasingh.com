@@ -1,1 +1,1 @@
-This is a personal portfolio websote.
+This is a personal portfolio website.
